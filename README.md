@@ -33,9 +33,8 @@ This is a lightweight, containerized project designed to showcase how to run a b
 
 ### 1. Clone and run the setup script
 ```bash
-git clone <your-repo>
-cd <your-repo>
-bash run.sh
+git clone https://github.com/etlguru/chatboat.git
+cd chatboat
 ```
 
 ### 2. Build the Docker image
